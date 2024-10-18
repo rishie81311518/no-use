@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@headlessui/react": "^2.1.10",
+    "@netlify/plugin-nextjs": "^5.8.0",
     "axios": "^1.7.7",
     "clsx": "^2.1.1",
     "lucide-react": "^0.453.0",
